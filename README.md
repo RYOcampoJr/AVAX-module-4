@@ -17,3 +17,21 @@ The development server starts, and the DApp should now be accessible at http://l
 
 6. Explore the DApp: Connect your MetaMask wallet to interact with the DApp on the local Ethereum network. You can manage the message, update the favorite number, and explore dynamic message length functionalities.
 By following these steps, you can set up, deploy, and run the decentralized application locally on your machine.
+
+## Interacting with the Contract
+### 1. View Current Message and Favorite Number:
+➝ Connect your MetaMask wallet.  
+➝ The DApp will display the current message and favorite number automatically.  
+
+### 2. Update the Message:
+➝ Enter a new message in the input field.  
+➝ Click "Update Message" and confirm the transaction in MetaMask.  
+
+### 3. Update the Favorite Number:
+➝ Enter a new favorite number in the input field.  
+➝ Click "Update Favorite Number" and confirm the transaction in MetaMask.    
+
+### 4. Set Message Length:
+➝ Enter a new maximum length for the message in the input field.  
+➝ Click "Set Message Length" and confirm the transaction in MetaMask.  
+
